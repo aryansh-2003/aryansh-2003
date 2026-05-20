@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your/downloaded/banner.png" alt="Aryansh's GitHub Header" width="100%">
+  <img src="/banner.png" alt="Aryansh's GitHub Header" width="100%">
 </p>
 
 <h2 align="left">Full-Stack MERN Developer building modern, animated web experiences and integrating AI solutions. 💻 ✨</h2>
